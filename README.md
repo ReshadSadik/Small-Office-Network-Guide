@@ -36,4 +36,4 @@ Admin | 192.168.1.128/26| 255.255.255.192 | 192.168.1.129 - 192.168.1.190 | 30
 
 
 ## Design
-![Design Images](https://github.com/ReshadSadik/Small-Office-Network-Guide/blob/main/Images/remote-connection-L3.png)
+![Design Images](https://github.com/ReshadSadik/Small-Office-Network-Guide/blob/main/Images/remote-new-connection-L3.png)
