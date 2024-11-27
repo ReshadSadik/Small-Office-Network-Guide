@@ -5,14 +5,6 @@ This project is to create a Local Area Network design(Virtually) for small offic
 - I used a layer 3 switch to use as Gateway Device to reduce traffic which are expected to carry out both routing and switching functionalities.
 - I also attached a system file where i did did the same with a layer 2 switch to cut cost.
 
-
-## Table of Contents
- - Requirements
- - Installation
- - Subnetting
- - VLAN Configuration
- - Usage
-
 ## Case Study and Requirements
 
 The network includes three departments (IT/Server, Development, Sales & Marketing) with each on separate subnets and VLANs. Each department needs its own subnet. Here is the subnet breakdown based on the base network 192.168.1.0/24.
