@@ -2,6 +2,10 @@
 
 This project is to create a Local Area Network design(Virtually) for small office using Cisco Packet Tracer. Starting with Development, Sales & Marketing and Server departments where i am going to gradually add more security features to make it more efficient over time.
 
+- I used a layer 3 switch to use as Gateway Device to reduce traffic which are expected to carry out both routing and switching functionalities.
+- I also attached a system file where i did did the same with a layer 2 switch to cut cost.
+
+
 ## Table of Contents
  - Requirements
  - Installation
