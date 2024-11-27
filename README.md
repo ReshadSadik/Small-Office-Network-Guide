@@ -33,3 +33,7 @@ Admin | 192.168.1.128/26| 255.255.255.192 | 192.168.1.129 - 192.168.1.190 | 30
 - Host Device Configurations.
 - Configuring WLAN or wireless network (Cisco Access Point).
 - Design is Scalable Upto More the 60 Computers.
+
+
+## Design
+![Design Images](https://github.com/ReshadSadik/Small-Office-Network-Guide/blob/main/Images/remote-connection-L3.png)
